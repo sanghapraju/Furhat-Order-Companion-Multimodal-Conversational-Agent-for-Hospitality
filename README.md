@@ -71,4 +71,4 @@ Enhanced NLU Flexibility: Improve intent recognition to accommodate diverse acce
 
 Dialogue Backtracking: Introduce conversational rollback states (e.g., "Go back", "Change selection") so users can modify choices without breaking dialogue flow.
 
-Advanced Attention Cueing: Further synchronize robot gaze behaviors with visual menu interfaces or dish displays to reinforce recommendations
+Advanced Attention Cueing: Further synchronize robot gaze behaviors with visual menu interfaces or dish displays to reinforce recommendations.
