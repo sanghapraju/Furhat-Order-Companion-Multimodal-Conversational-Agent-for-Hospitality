@@ -53,17 +53,17 @@ Intent & NLU Edge Cases (Worst-Case Scenarios)
 
 Out-of-Scope Fallbacks: When users inquired about off-menu items (e.g., lasagna), Furhat repeatedly defaulted to fallback prompts ("Sorry, I didn't understand that") instead of dynamically redirecting to available specials.
 
-Constrained Entity Bottlenecks: When offered a choice between red or white wine, a user response of "both" caused the agent to remain idle due to strict slot-filling criteria[cite: 1].
+Constrained Entity Bottlenecks: When offered a choice between red or white wine, a user response of "both" caused the agent to remain idle due to strict slot-filling criteria.
 
-Indirect Affirmations: Pragmatic affirmations such as "that would be nice" failed intent mapping, triggering repeated clarification prompts[cite: 1].
+Indirect Affirmations: Pragmatic affirmations such as "that would be nice" failed intent mapping, triggering repeated clarification prompts.
 
-Turn-Taking Latency: Furhat issued premature timeout prompts ("Sorry, I didn't hear you") before the user could finish speaking[cite: 1].
+Turn-Taking Latency: Furhat issued premature timeout prompts ("Sorry, I didn't hear you") before the user could finish speaking.
 
 Emergent Successes (Best-Case Scenarios)
 
-Zero-Shot Slot Filling: When asked an open dessert question, users spontaneously answered "Gulab Jamun"[cite: 1]. Furhat extracted the entity, bypassed listing the dessert options, and directly confirmed the order[cite: 1].
+Zero-Shot Slot Filling: When asked an open dessert question, users spontaneously answered "Gulab Jamun". Furhat extracted the entity, bypassed listing the dessert options, and directly confirmed the order.
 
-Compound Entity Extraction: Handled multi-item compound utterances in a single conversational turn (e.g., "2 Biryani and 1 Palak Paneer"), accurately mapping dish names and quantities simultaneously[cite: 1].
+Compound Entity Extraction: Handled multi-item compound utterances in a single conversational turn (e.g., "2 Biryani and 1 Palak Paneer"), accurately mapping dish names and quantities simultaneously.
 
 ## 🚀 Future Work & Recommendations
 
