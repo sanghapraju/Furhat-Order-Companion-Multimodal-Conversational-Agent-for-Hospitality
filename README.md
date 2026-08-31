@@ -33,7 +33,7 @@ graph TD
     D --> E[Dessert & Complementary Suggestions]
     E --> F[Order Confirmation & Summary]
 ```
-##🧪 Iterative User Testing
+🧪 ##Iterative User Testing
 
 The system underwent three distinct evaluation iterations, progressing from a virtual agent to the physical Furhat head:
 
