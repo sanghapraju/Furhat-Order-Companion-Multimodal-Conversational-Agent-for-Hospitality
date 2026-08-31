@@ -67,8 +67,8 @@ Compound Entity Extraction: Handled multi-item compound utterances in a single c
 
 ## 🚀 Future Work & Recommendations
 
-Enhanced NLU Flexibility: Improve intent recognition to accommodate diverse accents, conversational hedges, and indirect responses[cite: 1].
+Enhanced NLU Flexibility: Improve intent recognition to accommodate diverse accents, conversational hedges, and indirect responses.
 
-Dialogue Backtracking: Introduce conversational rollback states (e.g., "Go back", "Change selection") so users can modify choices without breaking dialogue flow[cite: 1].
+Dialogue Backtracking: Introduce conversational rollback states (e.g., "Go back", "Change selection") so users can modify choices without breaking dialogue flow.
 
 Advanced Attention Cueing: Further synchronize robot gaze behaviors with visual menu interfaces or dish displays to reinforce recommendations
