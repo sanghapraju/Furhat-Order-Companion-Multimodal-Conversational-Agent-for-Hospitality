@@ -33,7 +33,7 @@ graph TD
     D --> E[Dessert & Complementary Suggestions]
     E --> F[Order Confirmation & Summary]
 ```
-🧪 ##Iterative User Testing
+## 🧪 Iterative User Testing
 
 The system underwent three distinct evaluation iterations, progressing from a virtual agent to the physical Furhat head:
 
@@ -47,7 +47,7 @@ Adjustment: Integrated pauses, smiles, and affirmative head nods to simulate hum
 
 Iteration 3 (Physical Furhat): Tested in a closed-room dining setup at eye level. Identified challenges with strict pronunciation expectations and rigid dialogue pathways, highlighting the need for greater conversational spontaneity.
 
-##🔍 Edge Case & Dialogue Analysis
+## 🔍 Edge Case & Dialogue Analysis
 
 Intent & NLU Edge Cases (Worst-Case Scenarios)
 
@@ -65,7 +65,7 @@ Zero-Shot Slot Filling: When asked an open dessert question, users spontaneously
 
 Compound Entity Extraction: Handled multi-item compound utterances in a single conversational turn (e.g., "2 Biryani and 1 Palak Paneer"), accurately mapping dish names and quantities simultaneously[cite: 1].
 
-##🚀 Future Work & Recommendations
+## 🚀 Future Work & Recommendations
 
 Enhanced NLU Flexibility: Improve intent recognition to accommodate diverse accents, conversational hedges, and indirect responses[cite: 1].
 
